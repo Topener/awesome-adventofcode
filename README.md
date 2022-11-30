@@ -9,6 +9,6 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 
 # Awesome People List
 
-| Name    | Programming Language | Repository                              |
-| ------- | -------------------- | --------------------------------------- |
-| Topener | JavaScript           | https://github.com/topener/adventofcode |
+| Name     | Programming Language | Repository                              |
+| -------- | -------------------- | --------------------------------------- |
+| Rene Pot | JavaScript           | https://github.com/topener/adventofcode |
