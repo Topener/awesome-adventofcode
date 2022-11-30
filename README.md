@@ -9,11 +9,12 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 
 # Awesome People List
 
-| Name            | Programming Language(s) | Repository                                      | Features              |
-| --------------- | ----------------------- | ----------------------------------------------- | --------------------- |
-| Daniel Sandberg | C#, F#                  | https://github.com/bjorndaniel/AdventOfCode     |                       |
-| Mark Simpson    | Common Lisp             | https://github.com/verdammelt/advent-of-code    |                       |
-| Rene Pot        | JavaScript              | https://github.com/topener/adventofcode         | Node/CLI based        |
-| Eric Burden     | Julia, R, Rust          | https://github.com/ericwburden/advent_of_code   |                       |
-| David Brownman  | Python                  | https://github.com/xavdid/advent-of-code        | Writeups, CLI, Runner |
-| Alex Wilson     | SQL, DuckDB             | https://github.com/mrwilson/advent-of-code-2022 |                       |
+| Name            | Programming Language(s) | Repository                                         | Features              |
+| --------------- | ----------------------- | ---------------------------------------------------| --------------------- |
+| Daniel Sandberg | C#, F#                  | https://github.com/bjorndaniel/AdventOfCode        |                       |
+| Mark Simpson    | Common Lisp             | https://github.com/verdammelt/advent-of-code       |                       |
+| Rene Pot        | JavaScript              | https://github.com/topener/adventofcode            | Node/CLI based        |
+| Eric Burden     | Julia, R, Rust          | https://github.com/ericwburden/advent_of_code      |                       |
+| David Brownman  | Python                  | https://github.com/xavdid/advent-of-code           | Writeups, CLI, Runner |
+| Alex Wilson     | SQL, DuckDB             | https://github.com/mrwilson/advent-of-code-2022    |                       |
+| Tim Lefkowitz   | java                    | https://github.com/timlefkowitz/advent-of-code-2022| Maven                 |
