@@ -9,6 +9,7 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 
 # Awesome People List
 
-| Name     | Programming Language | Repository                              |
-| -------- | -------------------- | --------------------------------------- |
-| Rene Pot | JavaScript           | https://github.com/topener/adventofcode |
+| Name        | Programming Language(s) | Repository                                    |
+| ----------- | ----------------------- | --------------------------------------------- |
+| Rene Pot    | JavaScript              | https://github.com/topener/adventofcode       |
+| Eric Burden | Julia, R, Rust          | https://github.com/ericwburden/advent_of_code |
