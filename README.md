@@ -11,5 +11,6 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 
 | Name        | Programming Language(s) | Repository                                    | Features       | 
 | ----------- | ----------------------- | --------------------------------------------- | -------------- |
+| Mark Simpson| Common Lisp             | https://github.com/verdammelt/advent-of-code  |                |
 | Rene Pot    | JavaScript              | https://github.com/topener/adventofcode       | Node/CLI based |
 | Eric Burden | Julia, R, Rust          | https://github.com/ericwburden/advent_of_code |                |
