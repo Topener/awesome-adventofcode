@@ -17,4 +17,4 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 | Eric Burden     | Julia, R, Rust          | https://github.com/ericwburden/advent_of_code      |                       |
 | David Brownman  | Python                  | https://github.com/xavdid/advent-of-code           | Writeups, CLI, Runner |
 | Alex Wilson     | SQL, DuckDB             | https://github.com/mrwilson/advent-of-code-2022    |                       |
-| Tim Lefkowitz   | java                    | https://github.com/timlefkowitz/advent-of-code-2022| Maven                 |
+| Tim Lefkowitz   | Java                    | https://github.com/timlefkowitz/advent-of-code-2022| Maven                 |
