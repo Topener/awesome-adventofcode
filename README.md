@@ -19,9 +19,9 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 | David Brownman  | Python                  | https://github.com/xavdid/advent-of-code            | Writeups, CLI, Runner        |
 | Florian Rohrer  | Python                  | https://github.com/r0f1/adventofcode2022            | CLI based                    |
 | Swemoney        | Python                  | https://github.com/swemoney/AdventOfCode            |                              |
+| Turhan Kargın   | Python                  | https://github.com/turhancan97/adventofcode         | Only Solutions               |
 | Alex Wilson     | SQL, DuckDB             | https://github.com/mrwilson/advent-of-code-2022     |                              |
 | Svetlin Zarev   | Rust                    | https://github.com/SvetlinZarev/advent-of-code      | CLI                          |
 | Ofer Sadan      | Rust                    | https://github.com/ofersadan85/advent_of_code       |                              |
 | Benoît St-Jean  | Smalltalk               | https://github.com/bstjean/AoC2022                  | Squeak Smalltalk             |
 | Martin Seeler   | Typescript              | https://github.com/MartinSeeler/advent-of-code-next | Browser based, Visualisation |
-| Turhan Kargın   | Python                  | https://github.com/turhancan97/adventofcode         | Only Solutions               |
