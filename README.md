@@ -19,4 +19,5 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 | Alex Wilson     | SQL, DuckDB             | https://github.com/mrwilson/advent-of-code-2022     |                       |
 | Svetlin Zarev   | Rust                    | https://github.com/SvetlinZarev/advent-of-code      | CLI                   |
 | Tim Lefkowitz   | Java                    | https://github.com/timlefkowitz/advent-of-code-2022 | Maven                 |
+| Benoît St-Jean  | Smalltalk               | https://github.com/bstjean/AoC2022                  | Squeak Smalltalk      |
 | Florian Rohrer  | Python                  | https://github.com/r0f1/adventofcode2022        | CLI based             |
