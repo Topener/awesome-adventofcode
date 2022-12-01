@@ -24,3 +24,4 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 | Ofer Sadan      | Rust                    | https://github.com/ofersadan85/advent_of_code       |                              |
 | Benoît St-Jean  | Smalltalk               | https://github.com/bstjean/AoC2022                  | Squeak Smalltalk             |
 | Martin Seeler   | Typescript              | https://github.com/MartinSeeler/advent-of-code-next | Browser based, Visualisation |
+| Turhan Kargın   | Python                  | https://github.com/turhancan97/adventofcode         | Only Solutions               |
