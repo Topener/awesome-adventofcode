@@ -16,6 +16,7 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 | Tim Lefkowitz   | Java                    | https://github.com/timlefkowitz/advent-of-code-2022 | Maven                          |
 | Rene Pot        | JavaScript              | https://github.com/topener/adventofcode             | Node/CLI based                 | 
 | Eric Burden     | Julia, R, Rust          | https://github.com/ericwburden/advent_of_code       |                                |
+| Daniel Dara     | Python                  | https://github.com/daniel-dara/advent-of-code       |                                |
 | David Brownman  | Python                  | https://github.com/xavdid/advent-of-code            | Writeups, CLI, Runner          |
 | Florian Rohrer  | Python                  | https://github.com/r0f1/adventofcode2022            | CLI based                      |
 | Juhis           | Python                  | https://github.com/hamatti/adventofcode-2022        | Jupyter Notebook, explanations |
