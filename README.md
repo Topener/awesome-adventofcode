@@ -12,6 +12,7 @@ Add yourself to this list! Submit a pull request to add yourself to the list in 
 | Name            | Programming Language(s) | Repository                                          | Features                       |
 | --------------- | ----------------------- | --------------------------------------------------- | ------------------------------ |
 | Daniel Sandberg | C#, F#                  | https://github.com/bjorndaniel/AdventOfCode         |                                |
+| Matisse Babonneau | C++, Go               | https://github.com/Matbabs/AdventOfCode             | CLI                            |
 | Mark Simpson    | Common Lisp             | https://github.com/verdammelt/advent-of-code        |                                |
 | Tim Lefkowitz   | Java                    | https://github.com/timlefkowitz/advent-of-code-2022 | Maven                          |
 | Rene Pot        | JavaScript              | https://github.com/topener/adventofcode             | Node/CLI based                 | 
